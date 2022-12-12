@@ -1,0 +1,16 @@
+1.First, let's install minianaconda3 through this link: 
+
+- For windows : https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+
+-For MacOS : https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+
+-For Linux : https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
+2. Once you install the program,create a file named 'workspace' in your location that anaconda is installed in and then follow these steps:
+- open cmd miniconda3
+- conda create -n workspace python=3.7
+- conda env list
+- pip install jupyterlab
+- jupyter lab
+
+Once you are done, head to the 
