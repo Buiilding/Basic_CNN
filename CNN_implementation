@@ -13,4 +13,4 @@
 - pip install jupyterlab
 - jupyter lab
 
-Once you are done, head to the 
+3.Once you are done, head to CNN.ipynb and Net.py to view the full code
